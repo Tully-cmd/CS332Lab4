@@ -41,7 +41,7 @@ Once the scan has completed, please select it and the click on the Vulnerabiliti
     3. How many “Medium” vulnerabilities were found?
 
 
-Please export the report in PDF format and upload it to the assignment (Reports a Detailed Vulnerabilities by host).
+Please export the report in PDF format and upload it to the assignment (Detailed Vulnerabilities by host).
 
 
 ## Analysis of a “Critical” vulnerability
