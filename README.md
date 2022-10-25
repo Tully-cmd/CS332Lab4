@@ -11,7 +11,8 @@ You should already have Nessus installed on your Kali system during the previous
 
 ## Vulnerability Report
 
-    1. Start you Kali machine and login with Username: kali , Password: Kali
+
+    1. Start your Kali machine and login with Username: kali , Password: Kali
 
     2. Type “sudo systemctl start nessusd”
 
